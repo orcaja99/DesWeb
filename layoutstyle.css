@@ -1,0 +1,339 @@
+
+  
+  .signin {
+    width: 110px;
+    color: black;
+    position: fixed;
+    margin: 10px;
+    top: 0px;
+    left: 1380px;
+    font-family: Inter;
+    font-size: 32px;
+  }
+
+  .login {
+    width: 100px;
+    color: black;
+    position: fixed;
+    margin: 10px;
+    top: 0px;
+    left: 1280px;
+    font-family: Inter;
+    font-size: 32px;
+  }
+
+
+  .tekspopu {
+    width: 150px;
+    color: black;
+    position: fixed;
+    margin: 10px;
+    top: 155px;
+    left: 1200px;
+    font-family: Inter;
+    font-size: 32px;
+  }
+
+    header {
+    height: 65px;
+    width: 100%;
+    background-color: gray;
+    position :fixed;
+    top: 0;
+
+  }
+
+  h1 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    }
+  
+  .bawahheader {
+    height: 50px;
+    width: 100%;
+    background-color:green;
+    position :fixed;
+    top: 65px;
+    margin: 0px;
+  }
+
+  .genre {
+    width: 100%;
+    color: black;
+    position: fixed;
+    margin: 10px;
+    top: 55px;
+    left: 10px;
+    font-family: Inter;
+    font-size: 32px;
+  }
+
+  .komik1 {
+    height: 250px;
+    width: 180px;
+    left: 100px;
+    background-color:grey;
+    position :fixed;
+    top: 150px;
+    margin: 0px;
+  }
+
+  .komik2 {
+    height: 250px;
+    width: 180px;
+    left: 450px;
+    background-color:grey;
+    position :fixed;
+    top: 150px;
+    margin: 0px;
+  }
+
+  .komik3 {
+    height: 250px;
+    width: 180px;
+    left: 800px;
+    background-color:grey;
+    position :fixed;
+    top: 150px;
+    margin: 0px;
+  }
+
+  .infotab {
+    height: 560px;
+    width: 350px;
+    background-color:#4a4a4a;
+    position :fixed;
+    top: 150px;
+    left: 1100px;
+    margin: 0px;
+  }
+
+  .popular {
+    height: 50px;
+    width: 200px;
+    left: 1180px;
+    background-color:white;
+    position :fixed;
+    top: 160px;
+    margin: 0px;
+  } 
+
+
+.popularkomik1 {
+    height: 250px;
+    width: 180px;
+    left: 1190px;
+    background-color:grey;
+    position :fixed;
+    top: 250px;
+    margin: 0px;
+  }
+
+  .logo {
+    font-family: Inter;
+    color: white;
+    font-size: 55px;
+  }
+
+  form.example input[type=text] {
+    top: 67px;
+    width: 150px;
+    height: 20px;
+    left: 1300px;
+    position: fixed;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    background: #f1f1f1;
+  }
+  
+  form.example button {
+    top: 67px;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    left: 1250px;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+
+  .rating1 {
+    height: 30px;
+    width: 180px;
+    left: 100x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 420px;
+    margin: 0px;
+  } 
+
+  .nama1 {
+    height: 30px;
+    width: 180px;
+    left: 100x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 460px;
+    margin: 0px;
+  } 
+
+  .cha1 {
+    height: 30px;
+    width: 180px;
+    left: 100x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 520px;
+    margin: 0px;
+    border-radius: 50px;
+  } 
+
+  .cha2 {
+    height: 30px;
+    width: 180px;
+    left: 100x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 570px;
+    margin: 0px;
+    border-radius: 50px;
+  } 
+ 
+  .rating2 {
+    height: 30px;
+    width: 180px;
+    left: 450x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 420px;
+    margin: 0px;
+  } 
+
+  .nama2 {
+    height: 30px;
+    width: 180px;
+    left: 450x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 460px;
+    margin: 0px;
+  } 
+  
+  .chb1 {
+    height: 30px;
+    width: 180px;
+    left: 450x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 520px;
+    margin: 0px;
+    border-radius: 50px;
+  } 
+
+  .chb2 {
+    height: 30px;
+    width: 180px;
+    left: 450x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 570px;
+    margin: 0px;
+    border-radius: 50px;
+  } 
+  
+  .rating3 {
+    height: 30px;
+    width: 180px;
+    left: 800x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 420px;
+    margin: 0px;
+  } 
+
+  .nama3 {
+    height: 30px;
+    width: 180px;
+    left: 800x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 460px;
+    margin: 0px;
+  } 
+
+  .chc1 {
+    height: 30px;
+    width: 180px;
+    left: 800x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 520px;
+    margin: 0px;
+    border-radius: 50px;
+  } 
+
+  .chc2 {
+    height: 30px;
+    width: 180px;
+    left: 800x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 570px;
+    margin: 0px;
+    border-radius: 50px;
+  } 
+
+  
+  .rating4 {
+    height: 30px;
+    width: 180px;
+    left: 1190x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 520px;
+    margin: 0px;
+  } 
+
+  .nama4 {
+    height: 30px;
+    width: 180px;
+    left: 1190x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 560px;
+    margin: 0px;
+  } 
+
+  .chd1 {
+    height: 30px;
+    width: 180px;
+    left: 1190x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 620px;
+    margin: 0px;
+    border-radius: 50px;
+  } 
+
+  .chd2 {
+    height: 30px;
+    width: 180px;
+    left: 450x;
+    background-color:#c2bcbc;
+    position :fixed;
+    top: 670px;
+    margin: 0px;
+    border-radius: 50px;
+  } 
+
